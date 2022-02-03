@@ -1,3 +1,3 @@
 # GitHub HelloWorld
 
-Gratuluję rozpoczecia przygody z serwisem GitHub!123
+Gratuluję rozpoczecia przygody z serwisem GitHub!
